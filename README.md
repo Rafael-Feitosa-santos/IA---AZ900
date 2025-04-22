@@ -30,3 +30,19 @@ Além disso, conheci o **serviço de bot do Azure**, que permite criar assistent
 
 Uma das partes mais interessantes foi ver como as ferramentas da Azure conseguem lidar com **linguagem informal e coloquial**, algo que usamos muito no dia a dia. Isso abre muitas possibilidades para criar soluções mais humanas e acessíveis.
 
+## Pesquisa Cognitiva do Azure
+
+Neste laboratório, aprendemos como organizar e pesquisar informações usando inteligência artificial com as ferramentas do Azure.
+
+Durante as aulas, seguimos três etapas principais:
+
+1. **Ingestão de conteúdo**  
+   Enviamos documentos como textos, PDFs e imagens para o Azure, preparando tudo para que a IA pudesse entender e usar as informações.
+
+2. **Criação de índices inteligentes**  
+   Usamos o Azure Cognitive Search para criar índices, que funcionam como uma forma mais inteligente de buscar e encontrar informações nos documentos.
+
+3. **Exploração dos dados organizados**  
+   Com tudo pronto, testamos na prática como pesquisar e analisar os dados organizados, e vimos como a IA pode ajudar a encontrar o que é mais importante.
+
+Ao final, montamos um repositório com tudo o que foi feito: as etapas, os testes e os aprendizados que tivemos durante a atividade.
